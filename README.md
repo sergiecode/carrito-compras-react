@@ -1,6 +1,5 @@
 
-#   
-Tutorial para hacer carrito de compras en React
+# Tutorial para hacer carrito de compras en React
 
 Este tutorial te guiará paso a paso para crear un carrito de compras en React utilizando las siguientes tecnologías y estructuras:
 
