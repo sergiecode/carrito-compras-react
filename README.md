@@ -1,3 +1,4 @@
+Link al curso de React: [REACT DESDE CERO por Sergie Code](https://youtu.be/ladwC6Lrs-M)
 
 # Tutorial para hacer carrito de compras en React
 
